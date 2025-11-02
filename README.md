@@ -29,14 +29,24 @@ Folder Structure
 
 backend/
 │
+
 ├── models/
+
 │   └── Booking.js
+
 │
+
 ├── components/
+
 │   └── booking.js
+
 │
+
 ├── index.js
+
 └── package.json
+
+
 
 
 TO execute the code you can type "nodemon index.js" in the terminal 
